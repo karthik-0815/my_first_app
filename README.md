@@ -81,3 +81,8 @@ You have two options to authenticate when pushing a change to your repository :
 - Refer to https://www.markdownguide.org/basic-syntax/ to learn about markdown syntax (ie. how to include pictures)
 ## Deadline
 Send me your git repo link on discord through direct message by **Friday, 21th April, 5pm**.
+
+
+ANSWER
+![](DOC//docker.png)
+![](doc//myapp.png)
