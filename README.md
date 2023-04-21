@@ -84,5 +84,7 @@ Send me your git repo link on discord through direct message by **Friday, 21th A
 
 
 ANSWER
-![](DOC//docker.png)
+![](doc//docker.png)
 ![](doc//myapp.png)
+
+
