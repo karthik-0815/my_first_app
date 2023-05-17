@@ -25,7 +25,7 @@ public class MyApp {
                 System.out.println(joke);
                 //-----------------------------------------------------------------------------------------
                 // Load the image fileex
-                File imageFile = new File("image.png");
+                File imageFile = new File("C:\\Users\\HP\\assignment\\my_first_app\\my_first_app\\main\\resources\\download1.png");
                 BufferedImage image = ImageIO.read(imageFile);
 
                 // Resize the image to a smaller size for better ASCII representation
